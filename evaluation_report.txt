@@ -1,7 +1,0 @@
-BÁO CÁO KẾT QUẢ (NODE 2 vs NODE 1 GT)
-====================================
-Dataset Size:           850 mẫu
-RMSE (Độ lệch chuẩn):   1.4807
-RAE (Sai số tương đối): 26.6784
-Tiết kiệm năng lượng:   26.47%
-Số gói tin gửi đi:      625/850

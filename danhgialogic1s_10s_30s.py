@@ -66,7 +66,7 @@ for interval in intervals:
     plt.plot(val_gt, 'k-', linewidth=2, label='Ground Truth (Node 1)')
     plt.plot(val_server, 'r--', label='Node Sent (Node 2)')
     plt.scatter(send_indices, send_values, c='green', marker='^', zorder=5, label='Tx Event')
-    plt.title(f"Gửi mỗi {interval}s: RMSE={rmse_avg:.3f}, RAE={rae_avg:.3f}%, Saving={energy_saved:.1f}%")
+    plt.title(f"Gửi mỗi {interval}s: RMSE={rmse_avg:.3f}, Saving={energy_saved:.1f}%")
     plt.xlabel("Time Step")
     plt.ylabel("Lux")
     plt.legend()

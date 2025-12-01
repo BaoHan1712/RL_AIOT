@@ -1,0 +1,7 @@
+BÁO CÁO KẾT QUẢ PPO (NODE 2 vs NODE 1 GT)
+========================================
+Dataset Size:           850 mẫu
+RMSE (Độ lệch chuẩn):   1.4807
+RAE (Sai số tương đối): 26.6784
+Tiết kiệm năng lượng:   19.29%
+Số gói tin gửi đi:      686/850
